@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C07&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kevin+%F0%9F%91%8B"</p>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C07&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kevin+%F0%9F%91%8B"</h1>
 
 <!--
 **NayroFr/NayroFr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100000000&color=F78C07&center=true&vCenter=true&width=435&lines=%F0%9F%94%A7+Technologie+%26+tools"/></p>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100000000&color=F78C07&center=true&vCenter=true&width=435&lines=%F0%9F%94%A7+Technologie+%26+tools"/></h3>
 
 <table align="center">
 <tr>
